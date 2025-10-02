@@ -23,13 +23,13 @@ This project demonstrates how to containerize a **simple Hello World Node.js app
 ## 📸 Screenshots  
 
 ### ✅ Kubernetes Deployment Running
-![Kubernetes Deployment](./screenshots/node-js-minicube.jpg)
+![Kubernetes Deployment](./Screenshots/node-js-minicube.jpg)
 
 ### ✅ Docker Hub Repository
-![Docker Hub](./screenshots/node-js-minicube-docker-hub.jpg)
+![Docker Hub](./Screenshots/node-js-minicube-docker-hub.jpg)
 
 ### ✅ App Running in Browser
-![App Running](./screenshots/node-js-minicube-webpage.jpg)
+![App Running](./Screenshots/node-js-minicube-webpage.jpg)
 
 ---
 
