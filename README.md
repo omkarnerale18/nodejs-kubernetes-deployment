@@ -20,9 +20,26 @@ This project demonstrates how to containerize a **simple Hello World Node.js app
 
 ---
 
+## 📸 Screenshots  
+
+### ✅ Kubernetes Deployment Running
+![Kubernetes Deployment](./screenshots/node-js-minicube.jpg)
+
+### ✅ Docker Hub Repository
+![Docker Hub](./screenshots/node-js-minicube-docker-hub.jpg)
+
+### ✅ App Running in Browser
+![App Running](./screenshots/node-js-minicube-webpage.jpg)
+
+---
+
+## 🔮 Future Improvements  
+- Implement CI/CD pipeline with GitHub Actions/Jenkins
+- Deploy using Helm charts for easier management 
+---
 ## 🚀 Setup Instructions
 
-### 1. Clone the repository
+
 ```bash
 git clone https://github.com/<your-username>/nodejs-kubernetes-deployment.git
 cd nodejs-kubernetes-deployment
